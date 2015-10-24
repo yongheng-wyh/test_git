@@ -1,3 +1,5 @@
 vi 文件名--新建文件 如：vi clone.tx
-
- 
+on branch_yongheng 
+clone 的仓库是默认本地master和远程仓库的master建立追踪关系吗？
+在 yongheng分支做修改 不merge到master 在master分支看不到yongheng分支的改变吧？
+   yongheng分支还没提交的时候 切换到master分支能看到yingheng分之的改动-onmaste:r
